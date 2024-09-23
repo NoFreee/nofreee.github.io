@@ -110,6 +110,10 @@ section.services i {
 }
 
 /* ABOUT */
+#about {
+    color: #ffffff;
+}
+
 @media screen and (min-width: 1024px) {
     section.about .container,
     section.testimonials .container {
@@ -130,6 +134,10 @@ section.projects .card img {
 }
 
 /* TESTIMONIALS */
+#testimonials{
+    color: #ffffff;
+}
+
 section.testimonials .carousel-control-prev,
 section.testimonials .carousel-control-next {
     width: 5%;
@@ -168,7 +176,7 @@ section.testimonials .carousel.carousel-fade .carousel-item {
 
 .btn-custom:hover {
     background-color: #000000; 
-    color: #4a90e2;  /* Teks berubah menjadi putih saat hover */
+    color: #4a90e2;  
     border: 2px solid #ffffff;
     box-shadow: 4px 4px #4a90e2;    
 }
